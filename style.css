@@ -18,3 +18,7 @@ img {
       
   }
 
+.fas:hover{
+    color: red;
+    cursor: pointer;
+}
