@@ -19,6 +19,6 @@ img {
   }
 
 .fas:hover{
-    color: red;
+    color: rgb(245, 11, 11);
     cursor: pointer;
 }
