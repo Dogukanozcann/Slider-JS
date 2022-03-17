@@ -1,2 +1,4 @@
 # Slider-JS
-Vanilla Slider JS
+## Vanilla Slider JS
+
+[](sliderwp.png)
